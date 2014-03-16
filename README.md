@@ -4,4 +4,6 @@ This code is an arduino implementation of a 90's electronic toy called Lights Ou
 
 Interesting bits of this code are a series of delays and a simple smoothing algorithm to make the button presses feel responsive without flipping too many times when a button is pressed.
 
+More information about the hardware and general project information at: http://hyperg0at.com/2013/10/whiteout.php
+
 Enjoy!
